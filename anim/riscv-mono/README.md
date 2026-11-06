@@ -14,10 +14,9 @@
 
 *Narrated animation (in Portuguese, with subtitles) of one `add` instruction through the single-cycle datapath in `riscv_single_dataflow.sv`, with an interactive step-by-step page. All values come from the Icarus Verilog simulation of `fibo.asm`.*
 
-<!-- VIDEO_INLINE -->
-[![Vídeo: add t2, t1, t0 no monociclo](poster.jpg)](riscv-mono_add.mp4)
+[![Vídeo: add t2, t1, t0 no monociclo](poster.jpg)](https://www.youtube.com/watch?v=0cOjZgZDJ_0)
 
-**Figura 1.** Quadro do vídeo [`riscv-mono_add.mp4`](riscv-mono_add.mp4) (cerca de 3 min, 1080p60, narrado e legendado). A versão interativa está em [`riscv-mono_add.html`](riscv-mono_add.html).
+**Figura 1.** Quadro do [vídeo no YouTube](https://www.youtube.com/watch?v=0cOjZgZDJ_0) (cerca de 3 min, narrado e legendado). A versão interativa está em [`riscv-mono_add.html`](riscv-mono_add.html).
 
 ## O que o vídeo mostra
 
